@@ -1,9 +1,11 @@
-# Myth Maker
+Divine_Tales
+Divine_Tales is a project developed by
+Charan (23BCS047),
+Sai Sathwik (23BCS036),
+Sai Rithvik (23BCS070), and
+Dinesh (23BCS027) — students of the LLM course at IIIT Dharwad, under the guidance of Dr. Sunil Saumya Sir.
 
-Welcome to Myth Maker, an app built with node.js for generating unique bedtime stories for children. With this app, parents never have to worry about running out of reading material to put their kids to sleep.
+This chatbot-based application is designed to generate personalized bedtime stories. While it primarily focuses on creating engaging and magical tales for children, it is also capable of generating more intricate narratives for older audiences.
 
-Myth Maker allows parents to generate stories based on their children's specific interests, but it is also capable of producing more complex narratives for older audiences. Favorite stories can be saved to the user's local storage for easy re-reading.
+With Divine_Tales, storytelling becomes a fun, interactive, and imaginative experience — making bedtime truly special.
 
-We invite you to suggest prompt ideas or provide feedback on the app's look and function. If you're interested in collaborating on a project with me, please email me at ekearney@techforsuccess.org.
-
-Let's make bedtime stories magical and memorable with Myth Maker!
