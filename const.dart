@@ -1,0 +1,1 @@
+const COHERE_API_KEY = 'lSm5jRzSnmMGHdEgDD1U3fijb9qbuQ3t2SjR5lJX';
